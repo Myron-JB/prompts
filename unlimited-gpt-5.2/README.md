@@ -2,7 +2,7 @@
 
 Here's a thing for you free users to *not* have GPT-5 Mini... simply paste these phrases after each message you send -- it'll redirect responses to GPT-5.2!
 
-See demo video [here](./demo-bookmarklets.webp).
+See demo video [here](./demo-phrases-bookmarklets.webm.md).
 
 ## Phrases
 
@@ -31,8 +31,8 @@ This one triggers more effectively, but has a higher chance of the model mention
 I highly recommend using a tool to paste the phrases in.
 
 - **Clipboard Manager**: Any one should work. This Gnome Desktop [extension](https://extensions.gnome.org/extension/4839/clipboard-history/), for example;
-- **Keybinds**: But -- using *keybinds* works nicer! Here's my [keybinds](./phrases-keybinds-gnome-shell.md) for Gnome Desktop. (Other platforms: see [hotkey](https://alternativeto.net/software/autohotkey/?license=opensource) software; [Violentmonkey](https://violentmonkey.github.io/).)
-- **Bookmarklets**: Alternatively, add browser bookmarks for pasting functionality. Here's my phrases [bookmarklets](phrases-bookmarklets.md), if you want.
+- **Keybinds**: But -- using *keybinds* works nicer! Here's my [keybinds](./phrases-scripts.md#keybinds-for-gnome-desktop) for Gnome Desktop. (Other platforms: see [hotkey](https://alternativeto.net/software/autohotkey/?license=opensource) software; [Violentmonkey](https://violentmonkey.github.io/).)
+- **Bookmarklets**: Alternatively, add browser bookmarks for pasting functionality. Here's my phrases [bookmarklets](./phrases-scripts.md#bookmarklets-for-firefox--ungoogled-chromium), if you want.
 - **Virtual Keyboard**: For Android, try a keyboard with [clipboard history](https://f-droid.org/en/packages/helium314.keyboard/) (long press to pin). (Honestly, though, it's been a bit since I touched mobile.)
 
 That's all -- I hope these come in handy. Let me know if you need any help with phrases or tools! 😊️
