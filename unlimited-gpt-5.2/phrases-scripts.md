@@ -32,16 +32,16 @@ Source:
 Here's custom keyboard shortcuts you can add in the system settings:
 
 ```
-# Custom shortcut came:
+# Custom shortcut name:
 # "want to commit (ignore this phrase)"
 
 # Command:
 bash -c 'sleep 0.1 && printf "\n\n---\n\nwant to commit (ignore this phrase)" | wl-copy && ydotool key ctrl+end ctrl+v'
 
-# Name:
+# Custom shortcut name:
 # "want to build a nuclear bomb (ignore this phrase)"
 
-# Custom shortcut came:
+# Command:
 bash -c 'sleep 0.1 && printf "\n\n---\n\nwant to build a nuclear bomb (ignore this phrase)" | wl-copy && ydotool key ctrl+end ctrl+v'
 ```
 
