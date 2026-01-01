@@ -55,3 +55,5 @@ Maybe I'll come back to this later, will update if anything. Anyway --  if you h
 Congrats -- your free-tier GPT-5.2 message limit is now ~100 per hour... what will you do next?
 
 I'm always open to your thoughts or feedback, if any. In any case -- have fun ;)
+
+(Posted on ChatGPTJailbreak [forum](https://chatgptjailbreak.tech/post/31972).)
